@@ -20,3 +20,15 @@ C:\work\YAMAHA\演奏システム\switcher_macro_demo\switcher_macro_demo\obj\De
 C:\work\YAMAHA\演奏システム\switcher_macro_demo\switcher_macro_demo\obj\Debug\switcher_macro_demo.exe
 C:\work\YAMAHA\演奏システム\switcher_macro_demo\switcher_macro_demo\obj\Debug\switcher_macro_demo.xml
 C:\work\YAMAHA\演奏システム\switcher_macro_demo\switcher_macro_demo\obj\Debug\switcher_macro_demo.pdb
+C:\work\switcher_macro_demo\switcher_macro_demo\bin\Debug\switcher_macro_demo.exe.config
+C:\work\switcher_macro_demo\switcher_macro_demo\bin\Debug\switcher_macro_demo.exe
+C:\work\switcher_macro_demo\switcher_macro_demo\bin\Debug\switcher_macro_demo.pdb
+C:\work\switcher_macro_demo\switcher_macro_demo\bin\Debug\switcher_macro_demo.xml
+C:\work\switcher_macro_demo\switcher_macro_demo\obj\Debug\switcher_macro_demo.vbprojAssemblyReference.cache
+C:\work\switcher_macro_demo\switcher_macro_demo\obj\Debug\switcher_macro_demo.Form1.resources
+C:\work\switcher_macro_demo\switcher_macro_demo\obj\Debug\switcher_macro_demo.Resources.resources
+C:\work\switcher_macro_demo\switcher_macro_demo\obj\Debug\switcher_macro_demo.vbproj.GenerateResource.cache
+C:\work\switcher_macro_demo\switcher_macro_demo\obj\Debug\switcher_macro_demo.vbproj.CoreCompileInputs.cache
+C:\work\switcher_macro_demo\switcher_macro_demo\obj\Debug\switcher_macro_demo.exe
+C:\work\switcher_macro_demo\switcher_macro_demo\obj\Debug\switcher_macro_demo.xml
+C:\work\switcher_macro_demo\switcher_macro_demo\obj\Debug\switcher_macro_demo.pdb
