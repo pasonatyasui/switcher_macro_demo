@@ -1,0 +1,7 @@
+﻿Time,Control_kind,Control_data
+0,L,"0x90 46 0x7F"
+0,S,1
+1000,M,"REC START"
+2000,R,1
+3000,L,"0x80 46 0x00"
+3500,E,0

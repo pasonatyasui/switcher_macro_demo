@@ -1,0 +1,8 @@
+﻿Time,Control_kind,Control_data
+0,S,2
+1000,L,0x90 46 0x7f
+1500,L,0x80 46 0x00
+4000,S,5
+4500,L,0x90 50 0x7f
+6000,L,0x80 50 0x00
+8000,E,0
